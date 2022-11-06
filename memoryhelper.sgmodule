@@ -3,6 +3,6 @@
 
 
 [Script]
-http-response ^https:\/\/memoryhelper\.fujianjin6471\.com\/api\/v4\.4\/expiration_date requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/memoryhelper.js, tag=Picsew
+http-response ^https:\/\/memoryhelper\.fujianjin6471\.com\/api\/v4\.4\/expiration_date requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/memoryhelper.js, tag=memory helper
 [MITM]
 hostname = memoryhelper.fujianjin6471.com
