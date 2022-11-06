@@ -5,4 +5,4 @@
 [Script]
 http-response ^https:\/\/awvp\.aoscdn\.com\/base\/vip\/client\/authorizations requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/artp.js,tag=傲软投屏
 [MITM]
-hostname = awvp.aoscdn.com
+hostname = %APPEND% awvp.aoscdn.com
